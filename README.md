@@ -16,4 +16,4 @@ My name is [Chairil Fauzi Firmansyah](https://chafau.github.io) and I'm a front-
 [![Codwwars](https://www.codewars.com/users/chafau/badges/large)](https://www.codewars.com/users/chafau)
 
 [![Indmind's GitHub stats](https://github-readme-stats.vercel.app/api?username=chafau&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=0175C2&bg_color=1d1f21)](https://github.com/anuraghazra/github-readme-stats)
-[![Indmind's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chafau&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/anuraghazra/github-readme-stats)
+[![Indmind's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chafau&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)]
