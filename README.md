@@ -11,6 +11,7 @@ My name is [Chairil Fauzi Firmansyah](https://chafau.github.io) and I'm a front-
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=FF2D20)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=02569B)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=0175C2)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 [![Codwwars](https://www.codewars.com/users/chafau/badges/large)](https://www.codewars.com/users/chafau)
 
