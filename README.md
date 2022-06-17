@@ -1,17 +1,13 @@
-[![Header](./assets/readme_header.png "Header")](https://martinheinz.dev/)
+<!-- [![Header](./assets/readme_header.png "Header")](https://martinheinz.dev/) -->
 
-# Hi there 👋
+# Hi Guys 👋
 My name is [Chairil Fauzi Firmansyah](https://chafau.github.io) and I'm a front-end developer. I'm from Indonesia, living in Malang, East Java
 
-## 🔧 Technologies & Tools
+##  ✔ Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=4FC08D)
-![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://starchart.cc/chafau/new-slicing__ind-indicator.svg)
-
 
 [![Codwwars](https://www.codewars.com/users/chafau/badges/large)](https://www.codewars.com/users/chafau)
 
