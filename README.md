@@ -10,8 +10,7 @@ My name is [Chairil Fauzi Firmansyah](https://chafau.github.io) and I'm a front-
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=4FC08D)
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/github/downloads/chafau/new-slicing__ind-indicator/total.svg)
-![](https://starchart.cc/chafau/new-slicing__ind-indicato.svg)
+![](https://starchart.cc/chafau/new-slicing__ind-indicator.svg)
 
 
 [![Codwwars](https://www.codewars.com/users/chafau/badges/large)](https://www.codewars.com/users/chafau)
